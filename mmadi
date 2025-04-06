@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MetaArab Airdrop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 16px;
+        }
+        .task-list {
+            text-align: left;
+            margin-top: 20px;
+            list-style-type: none;
+            padding: 0;
+        }
+        .task-list li {
+            background-color: #f8f8f8;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .task-list li span {
+            font-weight: bold;
+            color: #4CAF50;
+        }
+        .cta-btn {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 15px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .cta-btn:hover {
+            background-color: #45a049;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #777;
+        }
+        footer a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>مرحبا في Airdrop MetaArab!</h1>
+    <p>شارك في توزيع العملة المجانية $META وكن جزءاً من مجتمعنا المتنامي. قم بإتمام المهام أدناه للحصول على توكناتك!</p>
+
+    <h2>كيفية المشاركة:</h2>
+    <ul class="task-list">
+        <li>
+            <span>1. متابعة تويتر:</span> قم بمتابعتنا على <a href="https://twitter.com/YourTwitterHandle" target="_blank">تويتر</a> لتحصل على 10 توكنات.
+        </li>
+        <li>
+            <span>2. الانضمام إلى تيليغرام:</span> انضم إلى قناتنا على <a href="https://t.me/YourTelegramLink" target="_blank">تيليغرام</a> للحصول على 10 توكنات.
+        </li>
+        <li>
+            <span>3. إعادة التغريد:</span> قم بإعادة تغريد هذا الرابط للحصول على 15 توكنات. 
+        </li>
+        <li>
+            <span>4. دعوة أصدقاءك:</span> دعوة أصدقائك عبر الرابط الخاص بك للحصول على 20 توكنات لكل شخص يجتمع معك.
+        </li>
+    </ul>
+
+    <p>عدد التوكنات المحددة للمشاركة: <strong>100,000 توكن</strong></p>
+
+    <p>للبدء، قم بتسجيل بياناتك أدناه:</p>
+
+    <a href="https://example.com/register" class="cta-btn">سجل الآن للحصول على توكناتك</a>
+
+    <footer>
+        <p>تواصل معنا على: <a href="https://twitter.com/YourTwitterHandle" target="_blank">تويتر</a> | <a href="https://t.me/YourTelegramLink" target="_blank">تيليغرام</a></p>
+        <p>&copy; 2025 MetaArab. جميع الحقوق محفوظة.</p>
+    </footer>
+</div>
+
+</body>
+</html>
